@@ -5,3 +5,7 @@ become : true
     dnf: 
     name: tree
     state: latest 
+    
+    - name : andale mija 
+      system : 
+      nombre : pepe 
